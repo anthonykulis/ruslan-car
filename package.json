@@ -34,7 +34,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anthony/ruslan-car.git"
+    "url": "git://github.com/anthonykulis/ruslan-car.git"
   },
   "author": "anthony",
   "license": ""
